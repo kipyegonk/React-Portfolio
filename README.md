@@ -39,7 +39,7 @@ The system works **offline first** using **Hive** for local storage, and **synch
 ## ⚡ Project Structure
 
 
-
+```text
 soy_dairy/
 ├── android/
 ├── ios/              (optional for iOS build)
