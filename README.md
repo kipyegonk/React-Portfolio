@@ -42,15 +42,16 @@ The system works **offline first** using **Hive** for local storage, and **synch
 
 soy_dairy/
 ├── android/
-├── ios/ (optional for iOS build)
+├── ios/              (optional for iOS build)
 ├── lib/
-│ ├── core/ # Hive service, Firebase sync, authentication
-│ ├── ui/ # Screens (Dashboard, Cows, Milk, Feeds, Finance, Breeding, Treatments, Reports)
-│ ├── models/ # Optional data models
-│ └── main.dart
-├── assets/ # Images or icons (optional)
+│   ├── core/         # Hive service, Firebase sync, authentication
+│   ├── ui/           # Screens (Dashboard, Cows, Milk, Feeds, Finance, Breeding, Treatments, Reports)
+│   ├── models/       # Optional data models
+│   └── main.dart
+├── assets/           # Images or icons (optional)
 ├── pubspec.yaml
 └── README.md
+
 
 
 ---
